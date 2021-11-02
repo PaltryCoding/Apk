@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CheckstyleConfigurable">
     <option name="suppFilterFilename" value="" />
-    <option name="suppCommentFilter" value="false" />
+    <option name="suppCommentFilter" value="true" />
     <option name="offComment" value="CHECKSTYLE\:OFF" />
     <option name="onComment" value="CHECKSTYLE\:ON" />
     <option name="checkFormat" value=".*" />
