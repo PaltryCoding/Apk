@@ -9,7 +9,7 @@
     <option name="messageFormat" value="" />
     <option name="checkCPP" value="true" />
     <option name="checkC" value="true" />
-    <option name="suppNearbyCommentFilter" value="false" />
+    <option name="suppNearbyCommentFilter" value="true" />
     <option name="snCommentFormat" value="SUPPRESS CHECKSTYLE (\w+)" />
     <option name="snCheckFormat" value="$1" />
     <option name="snMessageFormat" value="" />
