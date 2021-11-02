@@ -40,6 +40,6 @@ class Month {
                 name = "grudnia";
                 return name;
         }
-        return name = " ";
+        return null;
     }
 }

@@ -1,6 +1,8 @@
 @startuml
 class Main{
 DateTime()
+getMonthOfYear()
+getDayOfWeek()
 int month
 int day
 
