@@ -8,10 +8,10 @@ public class Main {
         DateTime time = new DateTime();
         int month = time.getMonthOfYear();
         int day = time.getDayOfWeek();
-        System.out.println("Miesiac: " + Month.ToText(month));
-        System.out.println("Jest " + Day.ToText(day));
+//        System.out.println("Miesiac: " + Month.ToText(month));
+//        System.out.println("Jest " + Day.ToText(day));
 
-        JOptionPane.showMessageDialog(null,"Dzisiaj jest " + Day.ToText(day) + Month.ToText(month));
+        JOptionPane.showMessageDialog(null,"Dzisiaj jest " + time.getDayOfMonth() + " " + Month.ToText(month) + ". Mamy " + Day.ToText(day));
     }
 
 

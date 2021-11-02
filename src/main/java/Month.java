@@ -4,40 +4,40 @@ class Month {
         String name;
         switch (x) {
             case 1:
-                name = "Stycznia";
+                name = "stycznia";
                 return name;
             case 2:
-                name = "Lutego";
+                name = "lutego";
                 return name;
             case 3:
-                name = "Marca";
+                name = "marca";
                 return name;
             case 4:
-                name = "Kwietnia";
+                name = "kwietnia";
                 return name;
             case 5:
-                name = "Maja";
+                name = "maja";
                 return name;
             case 6:
-                name = "Czerwca";
+                name = "czerwca";
                 return name;
             case 7:
-                name = "Lipca";
+                name = "lipca";
                 return name;
             case 8:
-                name = "Sierpnia";
+                name = "sierpnia";
                 return name;
             case 9:
-                name = "Wrzesnia";
+                name = "wrzesnia";
                 return name;
             case 10:
-                name = "Pazdziernika";
+                name = "pazdziernika";
                 return name;
             case 11:
-                name = "Listopada";
+                name = "listopada";
                 return name;
             case 12:
-                name = "Grudnia";
+                name = "grudnia";
                 return name;
         }
         return name = " ";
